@@ -1,0 +1,4 @@
+/* Datalager.no — Aurora Glassmorphism Indigo | © 2026 IT-FIRMA
+ * Primær: #4f46e5 | Sekundær: #7c3aed | Søster: Skylager.no #0ea5e9
+ * Hovedstil inline i index.html. Denne filen for ekstern bruk. */
+:root{--bg:#060918;--bg2:#0a0e24;--c:#4f46e5;--c2:#6366f1;--c3:#818cf8;--v:#7c3aed;--a1:#a78bfa;--sky:#0ea5e9;--t:rgba(200,210,240,.72);--td:rgba(120,135,175,.5);--tb:#eef2ff;--glass:rgba(255,255,255,.025);--gb:rgba(255,255,255,.05);--mw:1100px;--r:20px}

@@ -1,0 +1,31 @@
+# robots.txt for datalager.no
+# Norges guide til datalagring og backup
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /tmp/
+
+Sitemap: https://datalager.no/sitemap.xml
+
+Crawl-delay: 1
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /

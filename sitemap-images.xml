@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://datalager.no/</loc>
+    <image:image>
+      <image:loc>https://datalager.no/assets/img/og-image.jpg</image:loc>
+      <image:title>Datalager.no – Norges guide til datalagring og backup</image:title>
+      <image:caption>NAS, SAN, RAID, backup-strategier, disaster recovery og kvantesikker lagring for norske bedrifter.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://datalager.no/assets/img/logo.svg</image:loc>
+      <image:title>Datalager.no logo</image:title>
+    </image:image>
+  </url>
+</urlset>

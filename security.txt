@@ -1,0 +1,13 @@
+# Security policy for Datalager.no
+# https://securitytxt.org/ — RFC 9116
+
+Contact: mailto:sikkerhet@it-firma.no
+Contact: https://it-firma.no/kontakt
+Expires: 2027-02-28T23:59:59.000Z
+Preferred-Languages: nb, en
+Canonical: https://datalager.no/.well-known/security.txt
+Policy: https://it-firma.no/sikkerhetspolicy
+
+# Datalager.no er en del av IT-FIRMA-økosystemet
+# For kvantesikkerhet, se https://quantumsecurity.no
+# For skylagring, se https://skylager.no
